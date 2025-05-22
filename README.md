@@ -2,7 +2,7 @@
 ### Sobre el valor del conocimiento para la cooperación social
 
 > **Cómo citar**:
-> Moreno Muñoz, Miguel (2025 v.2). *Filosofía y conocimiento*. Zenodo.org. <https://doi.org/10.5281/zenodo.15484149>
+> Moreno Muñoz, Miguel (2025 v.2). *La tribu desinformada. Sobre el valor del conocimiento para la cooperación social*. Zenodo.org. <https://doi.org/10.5281/zenodo.15484149>
 
 El conenido de este repositorio consiste en una monografía académica centrada en el problema de la desinformación. Se analizan en particular las estrategias de distorsión del debate público desarrolladas por grupos de presión para minar el valor del conocimiento experto, retrasar acciones y cambios del marco regulatorio contrarrios a sus intereses y promover la confrontación social. 
 
