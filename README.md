@@ -1,0 +1,2 @@
+# trib
+La tribu desinformada
