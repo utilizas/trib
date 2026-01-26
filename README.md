@@ -13,9 +13,28 @@ La última parte está centrada en las relaciones entre conocimiento, tecnologí
 
 Pese a los avances que internet ha hecho posible con respecto a la era de la imprenta, facilitando el acceso al conocimiento y la cultura a millones de personas, los canales y fuentes de información fiable no parecen tener el efecto esperado en los procesos de toma de decisiones sobre asuntos de interés general ni siquiera en los países más desarrollados, con mayor proporción de población con estudios universitarios. Se proporcionan elementos para entender cómo en la empresa informativa han adquirido un poder enorme actores sin escrúpulos, asesores políticos y grupos de presión que alimentan el conflicto social y las guerras culturales con estrategias de ofuscación del conocimiento especializado. Entre otras consecuencias, se tiene en cuenta el problema que supone la propagación de rumores y bulos sobre problemas acuciantes, para los cuales los tiempos de reacción, el dimensionado de los recursos y la calidad del debate público resultan cruciales.
 
-> **Cómo citar**:
+> **Cómo citar**:  
 > Moreno Muñoz, Miguel (2025 v.2). *La tribu desinformada. Sobre el valor del conocimiento para la cooperación social*. Zenodo.org. <https://doi.org/10.5281/zenodo.15484149>
+>
+> Formato BibTex:  
+```markdown
+@book{moreno_munoz_2025_15484149,
+  author       = {Moreno Muñoz, Miguel},
+  title        = {La tribu desinformada. Sobre el valor del
+                   conocimiento para la cooperación social
+                  },
+  publisher    = {Zenodo},
+  year         = 2025,
+  month        = may,
+  doi          = {10.5281/zenodo.15484149},
+  url          = {https://doi.org/10.5281/zenodo.15484149},
+}
+```
 
+# Desplegado en:
+1. Vercel: <https://trib-pearl.vercel.app/>
+2. Netlify: <https://latrib.netlify.app/>
+3. 
 ---
 
 # LICENCIA ASOCIADA AL CONTENIDO: CC BY-NC-SA 4.0
