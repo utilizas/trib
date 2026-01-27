@@ -34,7 +34,7 @@ Pese a los avances que internet ha hecho posible con respecto a la era de la imp
 # Desplegado en:
 1. Vercel: <https://trib-pearl.vercel.app/>
 2. Netlify: <https://latrib.netlify.app/>
-3. 
+
 ---
 
 # LICENCIA ASOCIADA AL CONTENIDO: CC BY-NC-SA 4.0
